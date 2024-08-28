@@ -5,6 +5,7 @@
 
 ## Решение
 [Готовый дашборд на Redash](http://redash.lab.karpov.courses/public/dashboards/9n4GNtZTnf4TShvj2uR0OJwNRB4XMMQTxflUuTUc?org_slug=default)
+или в случае неработающей ссылки [скриншоты готового дашборда](https://github.com/alex-grigorev/my_portfolio/tree/main/retail_dashboard/screenshots)
 
 ## Использованные инструменты:
 SQL, Redash
