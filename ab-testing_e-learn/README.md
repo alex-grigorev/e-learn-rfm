@@ -4,7 +4,7 @@
 Цель: сделать выводы о целесообразности запуска новой версии продукта в сфере онлайн-образования, а также написать функции для пересчета его основных метрик по обновленным данным и построения графиков.
 
 ## Использованные инструменты
-Python и библиотеки (pandas, numpy, seaborn, scipy, matplotlib, pingouin, pandahouse, requests)
+Python и библиотеки (pandas, numpy, seaborn, scipy, matplotlib, pingouin, pandahouse, requests), SQL
 
 
 ## В рамках проекта выполнил следующие задачи
